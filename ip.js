@@ -1,3 +1,5 @@
+//iife
+
 (function(){
 
 	var ip = "<!--#echo var='REMOTE_ADDR'-->";
